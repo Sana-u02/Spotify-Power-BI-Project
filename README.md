@@ -25,3 +25,6 @@ The dashboard provides insights into various metrics such as trending artists, t
 - **Data Source:** https://onyxdata.ck.page/a12261b1fb 
 
 You can use a CSV file, Excel, or direct integration with the Spotify API for custom analysis.
+
+
+<img src="https://github.com/user-attachments/assets/7492d132-aa6b-4b34-a12b-999e06bdb744" width="600"/>
